@@ -20,4 +20,4 @@ Po znalezieniu interesującego go filmu, potencjalny nabywca naszej usługi otrz
 
 #### Diagram przedstawiający omawianą bazę danych:
 
-![schema_postgres_database](static_files/database_schema.PNG)
+![database_schema](static_files/database_schema.png)
