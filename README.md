@@ -18,3 +18,6 @@ Po znalezieniu interesującego go filmu, potencjalny nabywca naszej usługi otrz
 
     - Strona techniczna: dostępność miejsca na dane seanse, informacje na temat biletów oraz samych seansów, wyświetlanie filmów oraz powiązań jakie mu towarzyszą.
 
+#### Diagram przedstawiający omawianą bazę danych:
+
+![schema_postgres_database](static_files/database_schema.PNG)
