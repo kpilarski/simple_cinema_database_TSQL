@@ -20,7 +20,7 @@ Po znalezieniu interesującego go filmu, potencjalny nabywca naszej usługi otrz
 
 #### Diagram przedstawiający omawianą bazę danych:
 
-![database_schema](static_files/database_schema.png)
+![db_schema](static_files/db_schema.png)
 
 
 #### Opis tabel
